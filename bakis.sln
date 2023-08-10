@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bakis", "bakis\bakis.csproj", "{7263AEBA-86BD-4902-8787-6A66E8B114E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bakisTests", "bakisTests\bakisTests.csproj", "{63A76805-1D83-44C1-BF55-35BCE78D28EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7263AEBA-86BD-4902-8787-6A66E8B114E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7263AEBA-86BD-4902-8787-6A66E8B114E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7263AEBA-86BD-4902-8787-6A66E8B114E1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7263AEBA-86BD-4902-8787-6A66E8B114E1}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{63A76805-1D83-44C1-BF55-35BCE78D28EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A76805-1D83-44C1-BF55-35BCE78D28EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A76805-1D83-44C1-BF55-35BCE78D28EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A76805-1D83-44C1-BF55-35BCE78D28EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7087B14-6374-4707-B295-860A9DD97A23}
+	EndGlobalSection
+EndGlobal

@@ -13,3 +13,6 @@ The Weather Route Planning Application is a web-based tool that provides users w
 **Route Info:** Allows the user to view the average temperature, rainfall and road surface grip of the route found.  
 **User-Friendly Interface:** Utilizes React and Chakra UI to create an intuitive and responsive front-end interface.  
 ## Screenshots
+![image](https://github.com/MantasJakstas/WeatherJourneyPlanner/assets/71774587/a1da02da-40a1-4aec-8a51-fb857c9cdba8)
+![image](https://github.com/MantasJakstas/WeatherJourneyPlanner/assets/71774587/19327657-a82d-41f4-8df4-0fb64c7621aa)
+
